@@ -18,35 +18,32 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">AnimalShelter</h3>
 
   <p align="center">
-    project_description
+    AnimalShelter là một dự án với sứ mệnh nâng cao nhận thức của người dân về các loài động vật mà cụ thể hơn là những loài đang có nguy cơ tuyệt chủng. Ngoài ra, chúng tôi cũng nhắm tới việc phát triển các dự án giúp nắm bắt được những sự thay đổi về môi trường ảnh hưởng xấu tới môi trường sinh thái để có thể đưa ra các giải pháp kịp thời.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Supporter09/AnimalShelter"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://www.animalshelter.tech/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Supporter09/AnimalShelter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Supporter09/AnimalShelter/issues">Request Feature</a>
   </p>
 </div>
 
@@ -228,7 +225,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://lh3.googleusercontent.com/b_OqTPqK35crTnBUm2tdDUpOdyToXOCa_g69HyMU4gq4RZgdYxBiQTvGQbSRJFiMIICv4xhwkMQak0tD69SWsKbGk7tkiu001IP_3hjmYfn3jlTnFFPdnAQOcYBE2yweaic6US_u648sB289TqWOa6mymNLlzuGyulfFcn9kVLenxlexmhj-HDo1IbDU8di_4gc1ZN9b5WDOeLqWZ6uHXvaLUv0Vt3dMJLdaf4IYlXR5o8tzxmRL6ETk-ROKPDhPym33elEGvYJdniZwz0XFAz1XyiJwl5XTZ-HhUrpuc0Au1PTIROlDR3yhsdypkr5HNuzNWmMtPblX7balaJWRw1Nv_Jbzbced4K2jJAXqp9PAzK13RDVQK-6LpQrosCBUx1a_cOX9BLCgJ9GAZPfWcyV4iGIsgZpqFy9YtH9WVd10LruCdxUcAp5zEndBK9vl9y1pwP7fdJ30PRABf75lUzwN4pvOIbNTT2fn65EMqpIK_A1vbOpF0OmYo1KvNqCfhwREF3LNrI7D3QBjTqSOrpKtR-VAkm0SYeDTR2n48kt2RNIOCwmyjKnutMQnhMtPkihLACn5iY4Y2ViJbpQ9_d-V0dj84neRwrmSFprFzNA7o2UUwNmCd2J8lahgBHtpqRM9vyKJqlQQLBmdgxcyjG4hSBTR6ItKVsDaZ1n0u-AVxX4REnijIemN0K431iAvnmK-bnJUpLc_evP5ul_HIuqGrmtbF81UZd4jm9W57L487YbqQnj_RC58Hych5Dayy5CsBlHfk8rBhLtE30Zii9gsqhvNi1GMUBJEeW2fQn3Qghqb_-nMSWBCNMHTw7HvIpAS0Q=w1900-h833-no?authuser=1
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
